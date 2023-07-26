@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIVT-21-15_Liamin-Borodin.D.A_LV_5(1)", "BIVT-21-15_Liamin-Borodin.D.A_LV_5(1)\BIVT-21-15_Liamin-Borodin.D.A_LV_5(1).csproj", "{72A07E92-5319-458B-B3F6-FB434BBD63B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIVT-21-15_Liamin-Borodin.D.A_LV_5(1)", "BIVT-21-15_Liamin-Borodin.D.A_LV_5(1)\BIVT-21-15_Liamin-Borodin.D.A_LV_5(1).csproj", "{72A07E92-5319-458B-B3F6-FB434BBD63B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryWork.OOP.5", "LaboratoryWork.OOP.5\LaboratoryWork.OOP.5.csproj", "{B12E8160-11CA-408C-B2AE-BD28A15A93FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{72A07E92-5319-458B-B3F6-FB434BBD63B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72A07E92-5319-458B-B3F6-FB434BBD63B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72A07E92-5319-458B-B3F6-FB434BBD63B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12E8160-11CA-408C-B2AE-BD28A15A93FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12E8160-11CA-408C-B2AE-BD28A15A93FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12E8160-11CA-408C-B2AE-BD28A15A93FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12E8160-11CA-408C-B2AE-BD28A15A93FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
